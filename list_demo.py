@@ -4,7 +4,7 @@ List operations demo
 
 def main():
     # Create a list
-    fruits = ["apple", "banana", "cherry", "date", "fig"]
+    fruits = ["apple", "banana", "cherry", "date", "fig", "fig", "fig", "fig", "fig"]
     
     print("Original list:", fruits)
     

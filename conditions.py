@@ -28,8 +28,8 @@ def grade_checker(score):
         return "F"
 
 if __name__ == "__main__":
-    print("Age 10:", check_age(10))
-    print("Age 25:", check_age(25))
-    print("Number 7 is:", is_even(7))
-    print("Number 10 is:", is_even(10))
-    print("Score 85:", grade_checker(85))
+    print("Age 10 va 10:", check_age(10))
+    print("Age 25   va 25:", check_age(25))
+    print("Number 7 va 7:", is_even(7))
+    print("Number 10 va 10:", is_even(10))
+    print("Score 85 va 85:", grade_checker(85))
